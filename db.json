@@ -1,0 +1,47 @@
+{
+    "users": [
+        {
+            "email": "admin1234@gmail.com",
+            "password": "qwert",
+            "name": "Lokesh",
+            "id": 1
+        }
+    ],
+    "Tracker": [
+        {
+            "name": "Lokesh",
+            "type": "Income",
+            "Income": "Gifts",
+            "Amount": "65",
+            "Expense": "Vehicle & Transport",
+            "date": "2023-06-06T14:06",
+            "id": 7
+        },
+        {
+            "name": "Lokesh",
+            "type": "Income",
+            "Income": "Salary",
+            "Amount": "6555",
+            "Expense": "Vehicle & Transport",
+            "date": "2023-06-06T14:06",
+            "id": 8
+        },
+        {
+            "name": "Lokesh",
+            "type": "Income",
+            "Income": "Refunds",
+            "Amount": "6555",
+            "Expense": "Vehicle & Transport",
+            "date": "2023-06-06T14:06",
+            "id": 9
+        },
+        {
+            "name": "Lokesh",
+            "type": "Expense",
+            "Amount": "456",
+            "Expense": "Shopping",
+            "date": "2023-06-06T14:46",
+            "id": 10
+        }
+    ]
+}
